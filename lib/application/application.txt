@@ -1,0 +1,4 @@
+Capa Aplicacion o Solicitud:
+
+En esta capa es donde se definen los Blocs y sirve como conexion entre los widgets en la capa de Presentacion y la capa de Dominio.
+Al crear los Blocs aqui logramos independencia entre las capas de Aplicacion y Presentacion.

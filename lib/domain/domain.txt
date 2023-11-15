@@ -1,0 +1,3 @@
+Capa Dominio:
+
+Esta capa es la encargada de contener toda la logica y objetos de negocio ( modelos ) y sus estados.

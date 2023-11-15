@@ -1,0 +1,4 @@
+Capa Infrastructura:
+
+Es la capa responsable de conectar la aplicacion a la base de datos, llamar a las API REST y utilizar canales de metodos para enviar
+y recibir datos.
